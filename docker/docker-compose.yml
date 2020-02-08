@@ -1,0 +1,25 @@
+version: '3.7'
+
+services:
+  greengrass:
+    init: true
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: aws-iot-greengrass-latest
+    image: toradex/greengrass-aarch64:latest
+    volumes:
+      - ./certs:/greengrass/certs
+      - ./config:/greengrass/config
+      - ./deployment:/greengrass/ggc/deployment
+      - ./log:/greengrass/ggc/var/log
+      - /tmp:/tmp
+      - /run/udev:/run/udev
+      - /sys:/sys
+    devices:
+      - /dev/video0:/dev/video0:rwm
+      - /dev/video14:/dev/video14:rwm
+    ports:
+      - "8883:8883"
+      - "5003:5003"
+    entrypoint: "/greengrass-entrypoint.sh"
