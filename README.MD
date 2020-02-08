@@ -12,7 +12,7 @@ There are 2 main components in setting up the pasta classification, the AWS side
 ### 1. Create an AWS IoT Certificate
 1. Run the command to generate a certificate
 ```
-aws iot create-keys-and-certificate --certificate-pem-outfile "toradex.cert.pem" --public-key-outfile "mli.public.key" --private-key-outfile "toradex.private.key" --set-as-active --query certificateId --output text
+aws iot create-keys-and-certificate --certificate-pem-outfile "toradex.cert.pem" --public-key-outfile "toradex.public.key" --private-key-outfile "toradex.private.key" --set-as-active --query certificateId --output text
 ```
 2. Take note of the `certificate ID` which will be needed to create the Greengrass Core
 
