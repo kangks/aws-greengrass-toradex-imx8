@@ -75,6 +75,9 @@ Resources:
     Properties:
       Name: FunctionDefinition
       InitialVersion:
+        DefaultConfig:
+          Execution:
+            IsolationMode: NoContainer        
         Functions:
         - 
           Id: MLInference
@@ -91,7 +94,6 @@ Resources:
                   Gid: '0'                
               ResourceAccessPolicies: 
                 - ResourceId: mlModelId
-                  Permission: ro
               Variables: 
                   MXNET_ENGINE_TYPE: NaiveEngine     
                   THINGNAME: !Ref CoreName
@@ -130,9 +132,10 @@ Resources:
             S3MachineLearningModelResourceData: 
               DestinationPath: /dlr_model
               S3Uri: !Ref ModelS3Uri           
-              GroupOwnerSetting:
-                AutoAddGroupOwner: false
-                GroupOwner: 998 
+              # OwnerSetting not working in CFN
+              # Schema as per https://docs.aws.amazon.com/greengrass/latest/apireference/createresourcedefinition-post.html              
+              # OwnerSetting:
+              #   GroupOwner: 998
 
   #############################################################################
   # SUPPORTING RESOURCES SECTION

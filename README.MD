@@ -35,13 +35,13 @@ cd model/ && zip pasta-model.zip ./
 2. Run the `create_stack.bash`
 3. If the stack creation failed, check the events in the AWS Console https://console.aws.amazon.com/cloudformation/home?#/stacks/events
 
-### 4. Inspect the stack
+### 4. Manual step to update the stack
 1. Go to the Greengrass Group in the AWS Console https://console.aws.amazon.com/iot/home?#/greengrass/grouphub
 2. Select the Greengrass Group that was created, such as `Toradex`
 3. Select `Resource` from the left hand side
 4. Select `Machine Learning` from the tabs
 5. Select the 3 dots "..." of the `mlModel`, select "Edit resource"
-6. Make sure in `Identify resource owner and set access permissions`, `Specify OS group and permissions` is selected. If not, select `Specify OS group and permissions`, and enter `998` as the `OS group ID`
+6. Make sure in `Identify resource owner and set access permissions`, `Specify OS group and permissions` is selected. If not, select `Specify OS group and permissions`, and enter `998` as the `OS group ID`, and select `Update`
 
 ## iMX8 setup steps
 

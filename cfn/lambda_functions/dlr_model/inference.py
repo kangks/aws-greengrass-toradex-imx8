@@ -209,10 +209,8 @@ def main():
     # Initialize the inference runtime with the model
     AWS_GG_RESOURCE_PREFIX = os.environ['AWS_GG_RESOURCE_PREFIX']
     
-    model_path = AWS_GG_RESOURCE_PREFIX + "/pasta_model/"
+    model_path = AWS_GG_RESOURCE_PREFIX + "/dlr_model/"
     model = DLRModel(model_path, 'cpu')
-
-#    model = DLRModel('./model', 'cpu')
 
     # Gstreamer Init
     Gst.init(None)
