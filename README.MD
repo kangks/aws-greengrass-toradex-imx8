@@ -12,7 +12,7 @@ There are 2 main components in setting up the pasta classification, the AWS side
 ### 1. Create an AWS IoT Certificate
 1. Run the command to generate a certificate
 ```
-aws iot create-keys-and-certificate --certificate-pem-outfile "toradex.cert.pem" --public-key-outfile "mli.public.key" --private-key-outfile "toradex.private.key" --set-as-active --query certificateId --output text
+aws iot create-keys-and-certificate --certificate-pem-outfile "toradex.cert.pem" --public-key-outfile "toradex.public.key" --private-key-outfile "toradex.private.key" --set-as-active --query certificateId --output text
 ```
 2. Take note of the `certificate ID` which will be needed to create the Greengrass Core
 
@@ -98,14 +98,45 @@ $ docker-compose build
 ```
 
 ### 3. Run the container
-1. In the `~/greengrass-docker/` folder, run `docker-compose up`
+1. In the `~/greengrass-docker/` folder, run `docker-compose up`. If the docker image was successfully build, you should be able to see the message as below:
+
+```
+$ docker-compose up
+Starting aws-iot-greengrass-latest ... done
+Attaching to aws-iot-greengrass-latest
+aws-iot-greengrass-latest | grep: /greengrass/ggc/deployment/group/group.json: No such file or directory
+aws-iot-greengrass-latest | Process with pid 14 does not exist already
+aws-iot-greengrass-latest | Setting up greengrass daemon
+aws-iot-greengrass-latest | Validating hardlink/softlink protection
+aws-iot-greengrass-latest | Waiting for up to 1m10s for Daemon to start
+aws-iot-greengrass-latest | 
+aws-iot-greengrass-latest | Greengrass successfully started with PID: 13
+```
+
 2. You can monitor the Greengrass log by tailing the log in ``~/greengrass-docker/logs`, such as
 
 ```
 tail -f ~/greengrass-docker/log/system/runtime.log
 ```
 
-3. Deploy the Greengrass from AWS Console
+If Greengrass Core started successfully, you should see this messages in runtime.log
+
+```
+# tail -F log/system/runtime.log
+[2020-02-08T05:52:25.054Z][DEBUG]-Subscribe retry configuration.	{"IntervalInSeconds": 60}
+[2020-02-08T05:52:25.054Z][INFO]-Start subscribing.	{"numOfTopics": 2, "clientId": "toradex_Core"}
+[2020-02-08T05:52:25.054Z][INFO]-Trying to subscribe to topic $aws/things/toradex_Core-gda/shadow/update/delta
+[2020-02-08T05:52:25.054Z][DEBUG]-Subscribe	{"topic": "$aws/things/toradex_Core-gda/shadow/update/delta", "qos": 0}
+[2020-02-08T05:52:25.171Z][DEBUG]-Subscribed to topic.	{"topic": "$aws/things/toradex_Core-gda/shadow/update/delta"}
+[2020-02-08T05:52:25.171Z][INFO]-Trying to subscribe to topic $aws/things/toradex_Core-gda/shadow/get/accepted
+[2020-02-08T05:52:25.171Z][DEBUG]-Subscribe	{"topic": "$aws/things/toradex_Core-gda/shadow/get/accepted", "qos": 0}
+[2020-02-08T05:52:25.295Z][DEBUG]-Subscribed to topic.	{"topic": "$aws/things/toradex_Core-gda/shadow/get/accepted"}
+[2020-02-08T05:52:25.295Z][DEBUG]-Publish	{"topic": "$aws/things/toradex_Core-gda/shadow/get", "qos": 1}
+[2020-02-08T05:52:25.403Z][INFO]-All topics subscribed.	{"clientId": "toradex_Core"}
+```
+
+3. Deploy the Greengrass from AWS Console. If this is your first time deploying the group, select `Automatic detection` in the page `Configure how Devices discover your Core`
+
 4. If deployment was successful, you can restart the UI to connect to the inference.py running in the Greengrass using command
 ```
 docker restart local-ui
