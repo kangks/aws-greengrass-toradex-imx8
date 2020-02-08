@@ -62,7 +62,7 @@ $ docker-compose build
    * ~/greengrass-docker/config
    * ~/greengrass-docker/deployment
    * ~/greengrass-docker/log
-1. scp the certificates created in [1. Create an AWS IoT Certificate] to the iMX8 `~/greengrass-docker/certs` folder
+1. scp the certificates created in [create an aws iot certificate](#1-create-an-aws-iot-certificate) to the iMX8 `~/greengrass-docker/certs` folder
 2. Create a Greengrass configuration by changing the values from the template below:
 
 ```
