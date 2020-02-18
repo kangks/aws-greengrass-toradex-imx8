@@ -1,0 +1,58 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000981.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>510.8232344337652</xmin>
+            <ymin>257.64033988020617</ymin>
+            <xmax>568</xmax>
+            <ymax>354</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>99.84677531689651</ymin>
+            <xmax>79</xmax>
+            <ymax>134</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>79.34252681431956</xmin>
+            <ymin>75.77657055300182</ymin>
+            <xmax>144</xmax>
+            <ymax>137</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>69.53614709569578</ymin>
+            <xmax>111</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>
+</annotation>

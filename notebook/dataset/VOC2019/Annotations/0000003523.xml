@@ -1,0 +1,36 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000003523.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>442.58172673931267</xmin>
+            <ymin>1</ymin>
+            <xmax>456</xmax>
+            <ymax>12</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>429.1701592623638</xmin>
+            <ymin>1</ymin>
+            <xmax>445</xmax>
+            <ymax>55</ymax>
+        </bndbox>
+    </object>
+</annotation>

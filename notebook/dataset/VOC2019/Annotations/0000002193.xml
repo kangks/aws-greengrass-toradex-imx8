@@ -1,0 +1,135 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000002193.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>404.50216450216453</xmin>
+            <ymin>229.2640692640693</ymin>
+            <xmax>454</xmax>
+            <ymax>318</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>434.978354978355</xmin>
+            <ymin>146.83982683982686</ymin>
+            <xmax>507</xmax>
+            <ymax>224</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>181.4718614718615</xmin>
+            <ymin>140.60606060606062</ymin>
+            <xmax>249</xmax>
+            <ymax>220</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>508.39826839826844</xmin>
+            <ymin>151.6883116883117</ymin>
+            <xmax>567</xmax>
+            <ymax>240</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>407.965367965368</xmin>
+            <ymin>160.00000000000003</ymin>
+            <xmax>459</xmax>
+            <ymax>235</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>601.2121212121212</xmin>
+            <ymin>219.56709956709958</ymin>
+            <xmax>638</xmax>
+            <ymax>300</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>509.0909090909091</xmin>
+            <ymin>235.49783549783552</ymin>
+            <xmax>571</xmax>
+            <ymax>322</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>274.28571428571433</xmin>
+            <ymin>136.45021645021646</ymin>
+            <xmax>347</xmax>
+            <ymax>215</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>566.5800865800867</xmin>
+            <ymin>358.09523809523813</ymin>
+            <xmax>621</xmax>
+            <ymax>445</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>550.6493506493507</xmin>
+            <ymin>251.42857142857144</ymin>
+            <xmax>612</xmax>
+            <ymax>337</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>441.9047619047619</xmin>
+            <ymin>232.03463203463207</ymin>
+            <xmax>522</xmax>
+            <ymax>290</ymax>
+        </bndbox>
+    </object>
+</annotation>

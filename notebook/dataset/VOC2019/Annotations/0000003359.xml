@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000003359.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>236.70621074668526</xmin>
+            <ymin>122.37264480111654</ymin>
+            <xmax>281</xmax>
+            <ymax>193</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>375.1570132588974</xmin>
+            <ymin>174.18004187020236</ymin>
+            <xmax>434</xmax>
+            <ymax>249</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>266.18283321702717</xmin>
+            <ymin>263.50314026517793</ymin>
+            <xmax>326</xmax>
+            <ymax>367</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>331.3886950453594</xmin>
+            <ymin>337.64131193300767</ymin>
+            <xmax>364</xmax>
+            <ymax>462</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>376.9434752267969</xmin>
+            <ymin>75.03140265177947</ymin>
+            <xmax>432</xmax>
+            <ymax>156</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000001804.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>55.84415584415585</xmin>
+            <ymin>283.7662337662338</ymin>
+            <xmax>136</xmax>
+            <ymax>360</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.9480519480519483</xmin>
+            <ymin>69.48051948051949</ymin>
+            <xmax>54</xmax>
+            <ymax>125</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>275.32467532467535</xmin>
+            <ymin>163.63636363636365</ymin>
+            <xmax>403</xmax>
+            <ymax>198</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>149.35064935064938</xmin>
+            <ymin>124.67532467532469</ymin>
+            <xmax>276</xmax>
+            <ymax>236</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>365.58441558441564</xmin>
+            <ymin>234.41558441558445</ymin>
+            <xmax>483</xmax>
+            <ymax>332</ymax>
+        </bndbox>
+    </object>
+</annotation>

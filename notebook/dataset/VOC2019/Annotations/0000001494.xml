@@ -1,0 +1,135 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000001494.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>197.79454439930353</xmin>
+            <ymin>87.05745792222868</ymin>
+            <xmax>261</xmax>
+            <ymax>131</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>146.25652930934416</xmin>
+            <ymin>85.66453859547302</ymin>
+            <xmax>202</xmax>
+            <ymax>128</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>93.32559489262914</xmin>
+            <ymin>89.84329657573998</ymin>
+            <xmax>158</xmax>
+            <ymax>125</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>401.1607661056297</xmin>
+            <ymin>145.56006964596634</ymin>
+            <xmax>482</xmax>
+            <ymax>202</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>94.02205455600696</xmin>
+            <ymin>126.05919907138711</ymin>
+            <xmax>164</xmax>
+            <ymax>193</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>425.53685432385373</xmin>
+            <ymin>190.82994776552525</ymin>
+            <xmax>541</xmax>
+            <ymax>290</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>536.9704004643064</xmin>
+            <ymin>334.9970980847359</ymin>
+            <xmax>600</xmax>
+            <ymax>406</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>562.0429483459084</xmin>
+            <ymin>170.6326175275682</ymin>
+            <xmax>639</xmax>
+            <ymax>212</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>360.76610562971564</xmin>
+            <ymin>309.22809053975624</ymin>
+            <xmax>481</xmax>
+            <ymax>421</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>107.25478816018573</xmin>
+            <ymin>402.5536854323854</ymin>
+            <xmax>217</xmax>
+            <ymax>463</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21.59024956471271</xmin>
+            <ymin>71.0388856645386</ymin>
+            <xmax>96</xmax>
+            <ymax>119</ymax>
+        </bndbox>
+    </object>
+</annotation>

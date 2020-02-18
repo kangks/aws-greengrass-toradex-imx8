@@ -1,0 +1,80 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000212.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30.440587449933247</xmin>
+            <ymin>145.79439252336448</ymin>
+            <xmax>118</xmax>
+            <ymax>254</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.602136181575434</xmin>
+            <ymin>141.7890520694259</ymin>
+            <xmax>35</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58.47797062750334</xmin>
+            <ymin>204.27236315086782</ymin>
+            <xmax>167</xmax>
+            <ymax>282</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>359.6795727636849</xmin>
+            <ymin>375.70093457943926</ymin>
+            <xmax>496</xmax>
+            <ymax>413</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>134.57943925233644</xmin>
+            <ymin>267.55674232309747</ymin>
+            <xmax>239</xmax>
+            <ymax>367</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>609.6128170894526</xmin>
+            <ymin>112.14953271028038</ymin>
+            <xmax>639</xmax>
+            <ymax>197</ymax>
+        </bndbox>
+    </object>
+</annotation>

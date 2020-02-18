@@ -1,0 +1,47 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000002624.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>313.63231363231364</xmin>
+            <ymin>79.83367983367984</ymin>
+            <xmax>406</xmax>
+            <ymax>148</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>362.10276210276214</xmin>
+            <ymin>379.2099792099792</ymin>
+            <xmax>448</xmax>
+            <ymax>479</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>331.45233145233146</xmin>
+            <ymin>166.0825660825661</ymin>
+            <xmax>396</xmax>
+            <ymax>284</ymax>
+        </bndbox>
+    </object>
+</annotation>

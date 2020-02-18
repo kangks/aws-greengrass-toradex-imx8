@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000751.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>268.01306801306805</xmin>
+            <ymin>382.7739827739828</ymin>
+            <xmax>370</xmax>
+            <ymax>473</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>203.86100386100387</xmin>
+            <ymin>337.86753786753786</ymin>
+            <xmax>287</xmax>
+            <ymax>444</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>196.02019602019604</xmin>
+            <ymin>173.21057321057322</ymin>
+            <xmax>297</xmax>
+            <ymax>287</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>325.74992574992575</xmin>
+            <ymin>222.3938223938224</ymin>
+            <xmax>410</xmax>
+            <ymax>364</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>546.005346005346</xmin>
+            <ymin>161.0929610929611</ymin>
+            <xmax>634</xmax>
+            <ymax>240</ymax>
+        </bndbox>
+    </object>
+</annotation>

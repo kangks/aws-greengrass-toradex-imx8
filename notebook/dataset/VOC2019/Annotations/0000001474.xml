@@ -1,0 +1,135 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000001474.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>149.73882762623333</xmin>
+            <ymin>269.52988972722</ymin>
+            <xmax>204</xmax>
+            <ymax>354</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>103.07603017991875</xmin>
+            <ymin>404.6430644225189</ymin>
+            <xmax>218</xmax>
+            <ymax>462</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>94.02205455600696</xmin>
+            <ymin>87.7539175856065</ymin>
+            <xmax>157</xmax>
+            <ymax>123</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>88.45037724898434</xmin>
+            <ymin>215.9024956471271</ymin>
+            <xmax>159</xmax>
+            <ymax>292</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>568.3110853163088</xmin>
+            <ymin>165.7573998839234</ymin>
+            <xmax>639</xmax>
+            <ymax>230</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>28.554846198491006</xmin>
+            <ymin>227.7423099245502</ymin>
+            <xmax>86</xmax>
+            <ymax>309</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>63.377829367382475</xmin>
+            <ymin>359.37318630295994</ymin>
+            <xmax>153</xmax>
+            <ymax>420</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>249.33255948926293</xmin>
+            <ymin>180.38305281485782</ymin>
+            <xmax>323</xmax>
+            <ymax>256</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17.411491584445734</xmin>
+            <ymin>70.34242600116077</ymin>
+            <xmax>100</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>201.2768427161927</xmin>
+            <ymin>84.96807893209518</ymin>
+            <xmax>260</xmax>
+            <ymax>129</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>145.56006964596634</xmin>
+            <ymin>87.05745792222868</ymin>
+            <xmax>203</xmax>
+            <ymax>127</ymax>
+        </bndbox>
+    </object>
+</annotation>

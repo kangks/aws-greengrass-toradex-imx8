@@ -1,0 +1,135 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000002168.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>518.7878787878789</xmin>
+            <ymin>184.93506493506496</ymin>
+            <xmax>578</xmax>
+            <ymax>269</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>561.7316017316018</xmin>
+            <ymin>218.8744588744589</ymin>
+            <xmax>634</xmax>
+            <ymax>290</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>590.8225108225108</xmin>
+            <ymin>376.7965367965368</ymin>
+            <xmax>639</xmax>
+            <ymax>463</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>26.320346320346324</xmin>
+            <ymin>339.39393939393943</ymin>
+            <xmax>104</xmax>
+            <ymax>425</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>259.0476190476191</xmin>
+            <ymin>155.84415584415586</ymin>
+            <xmax>398</xmax>
+            <ymax>194</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>85.1948051948052</xmin>
+            <ymin>153.0735930735931</ymin>
+            <xmax>143</xmax>
+            <ymax>232</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>546.4935064935065</xmin>
+            <ymin>290.90909090909093</ymin>
+            <xmax>623</xmax>
+            <ymax>352</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.3852813852813854</xmin>
+            <ymin>381.6450216450217</ymin>
+            <xmax>30</xmax>
+            <ymax>447</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>207.79220779220782</xmin>
+            <ymin>247.2727272727273</ymin>
+            <xmax>291</xmax>
+            <ymax>308</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>555.4978354978356</xmin>
+            <ymin>165.54112554112555</ymin>
+            <xmax>630</xmax>
+            <ymax>214</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>265.974025974026</xmin>
+            <ymin>243.11688311688314</ymin>
+            <xmax>321</xmax>
+            <ymax>333</ymax>
+        </bndbox>
+    </object>
+</annotation>

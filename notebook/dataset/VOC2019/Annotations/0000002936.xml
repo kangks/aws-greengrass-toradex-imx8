@@ -1,0 +1,135 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000002936.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>345.71703561116465</xmin>
+            <ymin>102.40615976900867</ymin>
+            <xmax>393</xmax>
+            <ymax>170</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>170.1636188642926</xmin>
+            <ymin>419.6342637151107</ymin>
+            <xmax>199</xmax>
+            <ymax>479</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>256.40038498556305</xmin>
+            <ymin>27.71896053897979</ymin>
+            <xmax>313</xmax>
+            <ymax>77</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>178.6333012512031</xmin>
+            <ymin>374.20596727622717</ymin>
+            <xmax>253</xmax>
+            <ymax>457</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>264.87006737247356</xmin>
+            <ymin>302.5986525505294</ymin>
+            <xmax>365</xmax>
+            <ymax>361</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>215.59191530317617</xmin>
+            <ymin>52.358036573628496</ymin>
+            <xmax>293</xmax>
+            <ymax>107</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>293.35899903753614</xmin>
+            <ymin>261.0202117420597</ymin>
+            <xmax>407</xmax>
+            <ymax>327</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>301.82868142444664</xmin>
+            <ymin>79.30702598652552</ymin>
+            <xmax>351</xmax>
+            <ymax>136</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>368.046198267565</xmin>
+            <ymin>119.34552454282965</ymin>
+            <xmax>400</xmax>
+            <ymax>217</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>353.41674687199236</xmin>
+            <ymin>4.619826756496632</ymin>
+            <xmax>385</xmax>
+            <ymax>99</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>303.3686236766122</xmin>
+            <ymin>40.03849855630414</ymin>
+            <xmax>357</xmax>
+            <ymax>91</ymax>
+        </bndbox>
+    </object>
+</annotation>

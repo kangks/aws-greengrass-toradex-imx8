@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000585.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>168.93376893376893</xmin>
+            <ymin>307.9299079299079</ymin>
+            <xmax>268</xmax>
+            <ymax>433</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>560.974160974161</xmin>
+            <ymin>155.3905553905554</ymin>
+            <xmax>639</xmax>
+            <ymax>264</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>280.84348084348085</xmin>
+            <ymin>407.72200772200773</ymin>
+            <xmax>419</xmax>
+            <ymax>473</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>150.40095040095042</xmin>
+            <ymin>139.7089397089397</ymin>
+            <xmax>188</xmax>
+            <ymax>253</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>256.6082566082566</xmin>
+            <ymin>256.6082566082566</ymin>
+            <xmax>394</xmax>
+            <ymax>302</ymax>
+        </bndbox>
+    </object>
+</annotation>

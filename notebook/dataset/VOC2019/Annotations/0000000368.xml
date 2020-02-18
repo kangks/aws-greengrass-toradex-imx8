@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000368.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>436.946836946837</xmin>
+            <ymin>287.971487971488</ymin>
+            <xmax>559</xmax>
+            <ymax>388</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>116.18651618651619</xmin>
+            <ymin>368.51796851796854</ymin>
+            <xmax>246</xmax>
+            <ymax>470</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75.55687555687557</xmin>
+            <ymin>223.81942381942383</ymin>
+            <xmax>130</xmax>
+            <ymax>311</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>285.12028512028513</xmin>
+            <ymin>131.86813186813188</ymin>
+            <xmax>408</xmax>
+            <ymax>168</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>292.96109296109296</xmin>
+            <ymin>322.8987228987229</ymin>
+            <xmax>337</xmax>
+            <ymax>443</ymax>
+        </bndbox>
+    </object>
+</annotation>

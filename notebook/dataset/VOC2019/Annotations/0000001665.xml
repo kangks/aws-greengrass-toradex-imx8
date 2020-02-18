@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000001665.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>53.8961038961039</xmin>
+            <ymin>294.80519480519484</ymin>
+            <xmax>152</xmax>
+            <ymax>368</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>529.87012987013</xmin>
+            <ymin>282.4675324675325</ymin>
+            <xmax>639</xmax>
+            <ymax>392</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>9.740259740259742</xmin>
+            <ymin>228.5714285714286</ymin>
+            <xmax>127</xmax>
+            <ymax>340</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>464.28571428571433</xmin>
+            <ymin>316.88311688311694</ymin>
+            <xmax>551</xmax>
+            <ymax>452</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.298701298701299</xmin>
+            <ymin>68.18181818181819</ymin>
+            <xmax>66</xmax>
+            <ymax>127</ymax>
+        </bndbox>
+    </object>
+</annotation>

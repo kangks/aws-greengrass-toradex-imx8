@@ -1,0 +1,47 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000535.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>138.28333828333828</xmin>
+            <ymin>302.94030294030296</ymin>
+            <xmax>244</xmax>
+            <ymax>414</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>454.7668547668548</xmin>
+            <ymin>298.6634986634987</ymin>
+            <xmax>542</xmax>
+            <ymax>344</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>601.6038016038017</xmin>
+            <ymin>187.46658746658747</ymin>
+            <xmax>639</xmax>
+            <ymax>228</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,135 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000001661.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>446.10389610389615</xmin>
+            <ymin>178.57142857142858</ymin>
+            <xmax>529</xmax>
+            <ymax>234</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>369.48051948051955</xmin>
+            <ymin>317.5324675324676</ymin>
+            <xmax>475</xmax>
+            <ymax>426</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>128.57142857142858</xmin>
+            <ymin>409.0909090909091</ymin>
+            <xmax>249</xmax>
+            <ymax>464</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.298701298701299</xmin>
+            <ymin>318.18181818181824</ymin>
+            <xmax>30</xmax>
+            <ymax>408</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.298701298701299</xmin>
+            <ymin>66.23376623376625</ymin>
+            <xmax>64</xmax>
+            <ymax>123</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>8.441558441558442</xmin>
+            <ymin>314.935064935065</ymin>
+            <xmax>94</xmax>
+            <ymax>420</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>7.792207792207793</xmin>
+            <ymin>406.4935064935065</ymin>
+            <xmax>141</xmax>
+            <ymax>462</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>161.6883116883117</xmin>
+            <ymin>171.42857142857144</ymin>
+            <xmax>288</xmax>
+            <ymax>214</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>322.72727272727275</xmin>
+            <ymin>153.24675324675326</ymin>
+            <xmax>444</xmax>
+            <ymax>227</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>47.40259740259741</xmin>
+            <ymin>304.54545454545456</ymin>
+            <xmax>127</xmax>
+            <ymax>410</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>103.89610389610391</xmin>
+            <ymin>318.8311688311689</ymin>
+            <xmax>173</xmax>
+            <ymax>408</ymax>
+        </bndbox>
+    </object>
+</annotation>

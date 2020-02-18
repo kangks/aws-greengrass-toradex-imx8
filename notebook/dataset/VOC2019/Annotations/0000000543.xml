@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000543.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>556.6973566973568</xmin>
+            <ymin>140.42174042174042</ymin>
+            <xmax>639</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>359.96435996435997</xmin>
+            <ymin>129.72972972972974</ymin>
+            <xmax>460</xmax>
+            <ymax>207</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>336.44193644193643</xmin>
+            <ymin>367.0923670923671</ymin>
+            <xmax>437</xmax>
+            <ymax>456</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>492.54529254529257</xmin>
+            <ymin>349.98514998515003</ymin>
+            <xmax>569</xmax>
+            <ymax>475</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>157.52895752895753</xmin>
+            <ymin>149.6881496881497</ymin>
+            <xmax>271</xmax>
+            <ymax>247</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000002808.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>189.6049896049896</xmin>
+            <ymin>138.996138996139</ymin>
+            <xmax>243</xmax>
+            <ymax>198</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>185.32818532818533</xmin>
+            <ymin>182.4769824769825</ymin>
+            <xmax>290</xmax>
+            <ymax>245</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>240.92664092664094</xmin>
+            <ymin>94.08969408969409</ymin>
+            <xmax>336</xmax>
+            <ymax>166</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>281.5562815562816</xmin>
+            <ymin>424.82922482922487</ymin>
+            <xmax>314</xmax>
+            <ymax>479</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>270.8642708642709</xmin>
+            <ymin>1.4256014256014258</ymin>
+            <xmax>349</xmax>
+            <ymax>76</ymax>
+        </bndbox>
+    </object>
+</annotation>

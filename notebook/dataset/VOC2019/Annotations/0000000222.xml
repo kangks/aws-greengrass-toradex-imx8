@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000000222.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>379.70627503337784</xmin>
+            <ymin>237.11615487316422</ymin>
+            <xmax>441</xmax>
+            <ymax>316</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>530.3070761014686</xmin>
+            <ymin>375.70093457943926</ymin>
+            <xmax>614</xmax>
+            <ymax>435</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>225.10013351134847</xmin>
+            <ymin>352.46995994659545</ymin>
+            <xmax>359</xmax>
+            <ymax>435</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>184.2456608811749</xmin>
+            <ymin>121.76234979973299</ymin>
+            <xmax>296</xmax>
+            <ymax>216</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>555.1401869158879</xmin>
+            <ymin>245.1268357810414</ymin>
+            <xmax>623</xmax>
+            <ymax>324</ymax>
+        </bndbox>
+    </object>
+</annotation>

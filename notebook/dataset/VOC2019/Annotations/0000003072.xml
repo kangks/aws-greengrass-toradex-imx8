@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000003072.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>197.8825794032724</xmin>
+            <ymin>171.70356111645816</ymin>
+            <xmax>231</xmax>
+            <ymax>266</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>194.80269489894133</xmin>
+            <ymin>205.58229066410013</ymin>
+            <xmax>246</xmax>
+            <ymax>326</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>307.21847930702603</xmin>
+            <ymin>149.37439846005776</ymin>
+            <xmax>387</xmax>
+            <ymax>253</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>386.52550529355153</xmin>
+            <ymin>250.2406159769009</ymin>
+            <xmax>412</xmax>
+            <ymax>357</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>214.82194417709337</xmin>
+            <ymin>245.62078922040428</ymin>
+            <xmax>297</xmax>
+            <ymax>327</ymax>
+        </bndbox>
+    </object>
+</annotation>

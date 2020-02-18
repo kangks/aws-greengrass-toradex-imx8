@@ -1,0 +1,25 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000001725.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>shell</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>20.12987012987013</xmin>
+            <ymin>83.76623376623378</ymin>
+            <xmax>77</xmax>
+            <ymax>134</ymax>
+        </bndbox>
+    </object>
+</annotation>

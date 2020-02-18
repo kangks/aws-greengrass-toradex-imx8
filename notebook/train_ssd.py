@@ -5,6 +5,9 @@ import logging
 import warnings
 import time
 import numpy as np
+
+os.environ["MXNET_CUDNN_AUTOTUNE_DEFAULT"] = "0"
+
 import mxnet as mx
 from mxnet import nd
 from mxnet import gluon
@@ -140,7 +143,7 @@ def save_params(net, best_map, current_map, epoch, save_interval, prefix):
             f.write('{:04d}:\t{:.4f}\n'.format(epoch, current_map))
     if save_interval and epoch % save_interval == 0:
         net.save_params('{:s}_{:04d}_{:.4f}.params'.format(prefix, epoch, current_map))
-
+        
 def validate(net, val_data, ctx, eval_metric):
     """Test on validation dataset."""
     eval_metric.reset()
@@ -271,8 +274,12 @@ def train(net, train_data, val_data, eval_metric, ctx, args):
                 current_map = float(mean_ap[-1])
             else:
                 current_map = 0.
-                
+            
             save_params(net, best_map, current_map, epoch, args.save_interval, args.save_prefix)
+
+        print("running mAP {}".format(current_map))
+    
+    print("best mAP {}".format(best_map[0]))
 
 if __name__ == '__main__':
     args = parse_args()

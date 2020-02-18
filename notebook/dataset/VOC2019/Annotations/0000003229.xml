@@ -1,0 +1,69 @@
+<annotation>
+    <folder>Pasta_BR_Dataset</folder>
+    <filename>0000003229.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>309.52839268527435</xmin>
+            <ymin>55.43792107795958</ymin>
+            <xmax>360</xmax>
+            <ymax>114</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>elbow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>361.11645813282007</xmin>
+            <ymin>66.98748796920117</ymin>
+            <xmax>406</xmax>
+            <ymax>129</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>penne</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>255.63041385948029</xmin>
+            <ymin>24.639076034648703</ymin>
+            <xmax>310</xmax>
+            <ymax>89</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>303.3686236766122</xmin>
+            <ymin>411.16458132820026</ymin>
+            <xmax>401</xmax>
+            <ymax>479</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tortellini</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>230.22136669874882</xmin>
+            <ymin>45.42829643888355</ymin>
+            <xmax>288</xmax>
+            <ymax>126</ymax>
+        </bndbox>
+    </object>
+</annotation>
