@@ -36,3 +36,11 @@ aws cloudformation deploy \
     CoreName=${THINGNAME} \
     CertIdParam=${CERTIFICATE_ID} \
     ModelS3Uri=${ML_S3_BUCKET_URI}
+
+export GreengrassGroup=$(aws greengrass list-groups --query "Groups[?Name=='${THINGNAME}'].Id" --output text)
+
+aws \
+  greengrass create-deployment \
+  --group-id ${GreengrassGroup} \
+  --deployment-type NewDeployment \
+  --group-version-id $(aws greengrass list-group-versions --group-id ${GreengrassGroup} --query "sort_by(Versions, &CreationTimestamp)[-1].Version" --output text)
